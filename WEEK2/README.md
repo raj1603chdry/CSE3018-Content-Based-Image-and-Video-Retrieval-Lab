@@ -6,7 +6,7 @@
 
 * _./images/_ - Folder that contains the images belonging to two different categories. (Based on the extensions of the images, the regex for the filepath should be modified).
 * _./query/_ - Folder that contains the query image used to test the system.
-* -./output/_ - Folder that contains sample outputs.
+* _./output/_ - Folder that contains sample outputs.
 
 ### Available files:
 
