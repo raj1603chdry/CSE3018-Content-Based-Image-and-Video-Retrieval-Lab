@@ -10,4 +10,4 @@
 ### Available files:
 
 * _lab1.m_ - The script that reads all the images in the image base and calculates the width and height of these images. After the calculation of the dimensions, the euclidean distance of each of these images is calculated from the query image and stored in a xls file.
-* _image_information.xls_ - The excel file the contains the dimensions of each image in the image base along with the euclidean distance of the image from the query image.
+* _image_information.xls_ - The excel file that contains the dimensions of each image in the image base along with the euclidean distance of the image from the query image.
