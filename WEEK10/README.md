@@ -14,5 +14,5 @@
 
 ### Sample output:
 
-![output without rotation](./output/output_without_rotation.png)
+![output without rotation](./output/output_without_rotation.PNG)
 ![output with rotation](./output/output_with_rotation.png)
